@@ -1,4 +1,6 @@
-<img width="100%" src="LINK_DA_SUA_IMAGEM_AQUI"/>
+<p align="center">
+  <img width="100%" src="SEU_LINK"/>
+</p>
 Projeto Integrador 4 - Analise Portuária
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
