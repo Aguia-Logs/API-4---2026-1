@@ -1,3 +1,5 @@
+<img width="1983" height="793" alt="imagemleao" src="https://github.com/user-attachments/assets/f2785d4f-d06c-477f-8b69-167408464322" />
+
 Projeto Integrador 4ºSemestre - Analise de Eficiência de Terminais Portuários.
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
