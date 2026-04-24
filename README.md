@@ -44,13 +44,18 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 
-## Tecnologias Utilizadas
+ ### Tecnologias Específicas/Apoio
+* [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#)
 
-* Power BI
+ ### Tecnologias da Informação
+
+* [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+* [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#)
 * Microsoft Excel
-* Python (Colab)
+* [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 * R.
-* GitHub
+
 
 
 
