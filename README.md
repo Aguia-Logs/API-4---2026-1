@@ -80,7 +80,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| Video sobre o projeto | 27/03/2026 | Concluido |[MVP]() |
+| Video sobre o projeto | 27/03/2026 | Concluido |[MVP](whatsapp-video-2026-04-24-at-082629_vsRWjqcy.mp4) |
 | 01                | 24/04/2026 | a fazer  | [MVP](API4-PAC2024-2025-Merge.ipynb)  |
 | 02                | 15/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03 (Video)        | 05/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
