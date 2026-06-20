@@ -56,9 +56,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 
 
-
-
-
 # Product Backlog
 
 | Rank | Prioridade | User Story                                                                                        | Estimativa | Sprint |
@@ -81,6 +78,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 16   | Alta       | Como gestor, quero confiar na rastreabilidade dos dados.                                          | 5          | 3      |
 | 17   | Média      | Como gestor, quero visualizar apresentações e insights claros.                                    | 8          | 3      |
 
+# Relatorio API - Analise de Eficiência de Terminais Portuários
+[Relatório API.docx](https://github.com/user-attachments/files/29155543/Relatorio.API.docx)
 
  
 # Registro das Sprints
