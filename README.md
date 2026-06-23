@@ -82,6 +82,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 17   | Média      | Como gestor, quero visualizar apresentações e insights claros.                                    | 8          | 3      |
 
 # Relatorio API - Analise de Eficiência de Terminais Portuários
+Relatório API.docx
 
 
  
