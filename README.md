@@ -57,8 +57,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 
-
-
 # Product Backlog
 
 | Rank | Prioridade | User Story                                                                                        | Estimativa | Sprint |
@@ -82,10 +80,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 17   | Média      | Como gestor, quero visualizar apresentações e insights claros.                                    | 8          | 3      |
 
 # Relatorio API - Analise de Eficiência de Terminais Portuários
-Relatório API.docx
+[RelatórioAPI.docx](https://github.com/user-attachments/files/29250556/RelatorioAPI.docx)
 
-
- 
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
